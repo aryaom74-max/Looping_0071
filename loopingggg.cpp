@@ -5,7 +5,7 @@ int main() {
     float nilB, nilM, rerata;
     string status;
 
-    cout << "Masukkan nilai Matematika = ";
+    cout << "Masukkan nilai Matemat = ";
     cin >> nilM;
     cout << "Masukkan nil Bahasa Inggris = ";
     cin >> nilB;
