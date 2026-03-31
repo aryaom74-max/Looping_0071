@@ -36,7 +36,7 @@ int main() {
         x = rand() % 10;
     } while (x <= 5);
 
-    cout << "Bilangan ac do-whi yang terakhir = " << x << endl;
+    cout << "Bilangan acak do-whi yang terakhir = " << x << endl;
     cout << endl;
 
     return 0;
