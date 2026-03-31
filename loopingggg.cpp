@@ -7,7 +7,7 @@ int main() {
 
     cout << "Masukkan nilai Matemat = ";
     cin >> nilM;
-    cout << "Masukkan nil Bahasa Inggris = ";
+    cout << "Masukkan nilai Bahasa Inggris = ";
     cin >> nilB;
 
     rerata = (nilB + nilM) / 2;
